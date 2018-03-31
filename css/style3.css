@@ -225,3 +225,26 @@ span.sb-icon:before {
 .icon-download:before { content: '\41'; } /* 'A' */
 .icon-mobile:before { content: '\42'; } /* 'B' */
 .icon-camera:before { content: '\33'; } /* '3' */
+
+
+footer {
+	padding: 50px 0 65px;
+  }
+footer .list-inline {
+margin: 0;
+padding: 0;
+}
+footer .copyright {
+font-size: 14px;
+text-align: center;
+margin-bottom: 0;
+}
+.list-inline {
+	text-align: center;
+}
+.list-inline li {
+	display: inline-block;
+}
+.hahaha {
+	margin-left: -50px;
+}
